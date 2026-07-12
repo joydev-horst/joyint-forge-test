@@ -1,0 +1,11 @@
+id: ab74e4f4-797a-4d5e-88d9-85e6f8e8176c
+at: 2026-07-12T21:11:13.950935435Z
+author: horst.schwarz@joydev.com
+text: |-
+  error: the following required arguments were not provided:
+    <ID>
+
+  Usage: joy-bi milestone <ID>
+
+  For more information, try '--help'.
+kind: error
