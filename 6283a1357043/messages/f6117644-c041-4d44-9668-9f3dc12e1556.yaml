@@ -1,0 +1,5 @@
+id: f6117644-c041-4d44-9668-9f3dc12e1556
+at: 2026-07-13T03:04:09.834017319Z
+author: horst.schwarz@joydev.com
+text: 'Usage: /joy add <type> "<title>" [--priority p] [--effort n] [--parent ID] [--milestone ID] [--description "..."]'
+kind: error
