@@ -6,12 +6,10 @@ priority: medium
 parent: JOY-0001-36
 assignees:
 - member: horst.schwarz@joydev.com
-deps:
-- JOY-0001-36
 effort: 3
 created_by: horst.schwarz@joydev.com
 created: 2026-07-12T20:59:36.016187178Z
-updated: 2026-07-13T15:01:09.719734944Z
+updated: 2026-07-13T15:01:12.225177413Z
 updated_by: horst.schwarz@joydev.com
 history:
 - date: 2026-07-12T21:00:03.253919111Z
@@ -75,5 +73,7 @@ history:
 - date: 2026-07-13T15:01:06.631363465Z
   by: horst.schwarz@joydev.com
 - date: 2026-07-13T15:01:09.719734944Z
+  by: horst.schwarz@joydev.com
+- date: 2026-07-13T15:01:12.225177413Z
   by: horst.schwarz@joydev.com
 description: mal schauen :)
