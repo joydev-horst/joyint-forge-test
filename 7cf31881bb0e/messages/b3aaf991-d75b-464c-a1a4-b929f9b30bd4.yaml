@@ -1,0 +1,5 @@
+id: b3aaf991-d75b-464c-a1a4-b929f9b30bd4
+at: 2026-07-17T09:00:44.988261679Z
+author: horst.schwarz@joydev.com
+text: 'Unsupported: joy find (try ls, board, roadmap, show, sync, add, edit, comment, status, stop, approve, start, submit, close, rework, defer, reopen)'
+kind: error
