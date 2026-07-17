@@ -3,3 +3,5 @@ at: 2026-07-17T14:50:41.079604658Z
 author: horst.schwarz@joydev.com
 text: 'Unsupported: joy auth (try ls, board, roadmap, show, sync, add, edit, comment, status, stop, approve, start, submit, close, rework, defer, reopen)'
 kind: tool
+tool: /joy
+payload: '{"v":1,"result":{"kind":"error","message":"Unsupported: joy auth (try ls, board, roadmap, show, sync, add, edit, comment, status, stop, approve, start, submit, close, rework, defer, reopen)"},"fortune":null}'
