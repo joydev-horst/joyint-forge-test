@@ -1,0 +1,5 @@
+id: 62a8d59d-2b0e-4a36-856a-5da2ba099dbc
+at: 2026-07-18T08:15:51.344755896Z
+author: horst.schwarz@joydev.com
+text: 'Unsupported: joy auth (try ls, board, roadmap, show, sync, add, edit, comment, status, stop, rm, approve, start, submit, close, rework, defer, reopen)'
+kind: tool
