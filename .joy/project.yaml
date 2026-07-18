@@ -12,6 +12,12 @@ members:
       review: {}
       document: {}
       jobs: {}
+    provider_keys:
+      horst.schwarz@joydev.com:
+        wraps:
+          horst.schwarz@joydev.com: d8c70ebc40c1414b89d5ad8b292e34627d9c7b2096b2c71271b988130b5924d285db0cd9c1d717bd05480dae2025a382065418725bfc135e693982ef
+          platform: 660a6fba9b6eab1a96c63bb1e873a0a87be29421588bb24653d37fdb89a5ea8cfc9ad7025fe2fe149404eea25a672b3b6db274d8799e635d9afd7a41
+        budget_cents_month: 200
     attestation:
       attester: horst.schwarz@joydev.com
       signed_fields:
