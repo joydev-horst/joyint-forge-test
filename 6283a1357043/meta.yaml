@@ -6,4 +6,9 @@ created: 2026-07-13T03:03:16.213745842Z
 updated: 2026-07-18T08:15:32.433857488Z
 participants:
 - horst.schwarz@joydev.com
+crypt:
+  epochs:
+  - wraps:
+      horst.schwarz@joydev.com: 5bd0c4ee5c5b7d8e440f422ee469b8fda2daafc37e36dc59055226fb8b577b26c9a37589ac20eb5ad334e4961bdc9e1212264ddd46c96f7fbbb247b68e9b1ca7ee7f0004cf4ccf02da9cb10f894aa03b8190ac2893370d0185fea9bc
+      platform: 5bd0c4ee5c5b7d8e440f422ee469b8fda2daafc37e36dc59055226fb8b577b2625fe89ff62724cd22c25ce95ab384e17472ce2b4529767801009fe2e414adc29dd534b9b568357039d3ecbe86546bb33ba1ef97527e97e4c0f162622
 messages: []

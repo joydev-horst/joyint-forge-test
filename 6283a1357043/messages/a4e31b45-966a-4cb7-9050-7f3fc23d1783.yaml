@@ -1,7 +1,8 @@
 id: a4e31b45-966a-4cb7-9050-7f3fc23d1783
 at: 2026-07-18T08:12:17.833246398Z
 author: horst.schwarz@joydev.com
-text: 'Unsupported: joy auth (try ls, board, roadmap, show, sync, add, edit, comment, status, stop, rm, approve, start, submit, close, rework, defer, reopen)'
+text: ''
 kind: tool
 tool: /joy
-payload: '{"v":1,"result":{"kind":"error","message":"Unsupported: joy auth (try ls, board, roadmap, show, sync, add, edit, comment, status, stop, rm, approve, start, submit, close, rework, defer, reopen)"},"fortune":null}'
+enc: 45fb08b28932e1d2795f6040e3b916250046345a4238e2b176bee26b0d661be351655e213febf1a27696672dae353879ba33b7e9c26acd608c26d8fc2c825fecbee7fd129d9ca62be0dd62623f2907ce41a8eb9e609906ed257e13ef4793d5a8db78190171abd3ca53d4b526a35cdf9837e7c5a40c7a5b1e5919b41c36246f36bc0ccb80ef1a2611021dc15dce58cf411a54848e9fd231194affa1d95eba7ed8747c6fe16693f7fa92df570817e8d445dd7d678938128f0350ecab703e612cf123f286e864160621a5d09b432f412709b16901130e6d22d08487c44fc7f034bf0145b830d223962c8fb4b1f3b987b3a09f9c0bf8499fc8409fbd2254b742ee0dd786c30649f3f957587b659c4386794e0c657e57fcbbb1a3a093f9c3789e561773ce469a19b2af47aba26856d6787ad3a8340c0a5f07732b45f58135e4d3cd03559fc8b35be9fb5180f35d43f50825e7f5acaeea6e50af42ecee5c80b84aabbaf88412bcd9c222d4e84d26c8bb1a02b89cb5554bcb1c4faf32d6797b8e1662b53d6b2c148e23195f8d4079e725c6adaa038962100ddd446dac20cedea8c18b9748f3041ee6d1a9407c29e2
+epoch: 0
