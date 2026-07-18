@@ -2,31 +2,6 @@ name: joyint-forge-test
 acronym: JOY
 language: en
 members:
-  ai:mistral@joy:
-    capabilities:
-      conceive: {}
-      plan: {}
-      design: {}
-      implement: {}
-      test: {}
-      review: {}
-      document: {}
-      jobs: {}
-    attestation:
-      attester: horst.schwarz@joydev.com
-      signed_fields:
-        email: ai:mistral@joy
-        capabilities:
-          conceive: {}
-          plan: {}
-          design: {}
-          implement: {}
-          test: {}
-          review: {}
-          document: {}
-          jobs: {}
-      signed_at: 2026-07-18T10:47:59.444480889Z
-      signature: d0c149fb7368c90288f374231c80c578a72f8b4a002aac9f535981f02256de6cc1118271acdb22102550245b36a74c2c7e89893b90d093eccc2d1c9d6334a401
   horst.schwarz@joydev.com:
     capabilities: all
     verify_key: 4e941c3865bd183820a586464c7892d648c2d570542de8a4e227382e83e69b6b
