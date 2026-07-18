@@ -1,0 +1,3 @@
+member: ai:claude@joy
+adapter: claude-code
+provider: anthropic
