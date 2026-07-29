@@ -13,6 +13,7 @@ members:
       document: {}
       jobs: {}
     adapter: mistral-vibe
+    verify_key: e7b9b21ef1459e20d486082523a0c48a316b16a9c1698a44565c16272e861880
     attestation:
       attester: horst.schwarz@joydev.com
       signed_fields:
@@ -34,6 +35,11 @@ members:
     kdf_nonce: a1e4633bbe812f9006a6b73668af5a3e0783411e9a37611f2791815cb2bcd794
     seed_wrap_passphrase: 8e4059f1da2e3d0a1f4cadac78c43ba819cbf2cde6aee196bb755894a2fbf4657d63c921900e3c6d14c3d5cbe617470fbd6df6de24e4b10ad17bc966
     seed_wrap_recovery: d459c06f6b4e7a74ec74df08a7d990a588bb0c8cb312425907f23d0ae1388c586b01694e3fb58978717bb17069c37a98eaa7b0e33601e81c42ef745e
+    ai_delegations:
+      ai:vibe@joy:
+        delegation_verifier: e7b9b21ef1459e20d486082523a0c48a316b16a9c1698a44565c16272e861880
+        delegation_salt: aeed57053d17be44af5b606e8c5f8017cb0c66e6e2ecc163b78901df6b34acb9
+        created: 2026-07-29T16:42:29.657239903Z
 created: 2026-07-12T20:23:35.259875Z
 platform:
   verify_key: 5bd0c4ee5c5b7d8e440f422ee469b8fda2daafc37e36dc59055226fb8b577b26
