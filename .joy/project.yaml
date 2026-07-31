@@ -12,7 +12,7 @@ members:
       review: {}
       document: {}
       jobs: {}
-    adapter: mistral-vibe
+    adapter: vibe
     verify_key: e7b9b21ef1459e20d486082523a0c48a316b16a9c1698a44565c16272e861880
     attestation:
       attester: horst.schwarz@joydev.com
