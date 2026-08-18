@@ -2,6 +2,33 @@ name: joyint-forge-test
 acronym: JOY
 language: en
 members:
+  ai:vibe@joy:
+    capabilities:
+      conceive: {}
+      plan: {}
+      design: {}
+      implement: {}
+      test: {}
+      review: {}
+      document: {}
+      jobs: {}
+    adapter: vibe
+    verify_key: a3f6d1a5fe5835aacc9062c880f5502cac8cf09f2133344b47b5c560ec2b3d28
+    attestation:
+      attester: horst.schwarz@joydev.com
+      signed_fields:
+        email: ai:vibe@joy
+        capabilities:
+          conceive: {}
+          plan: {}
+          design: {}
+          implement: {}
+          test: {}
+          review: {}
+          document: {}
+          jobs: {}
+      signed_at: 2026-08-18T03:32:38.673306685Z
+      signature: eccb210583542f3b8a74e07139bb666da31c1ca3136e77439b65d2ad860640c69f4b92012d585ed5476deb31fa2acc676ab15d8b778960de4d4bef909ad33d0e
   horst.schwarz@joydev.com:
     capabilities: all
     verify_key: 4e941c3865bd183820a586464c7892d648c2d570542de8a4e227382e83e69b6b
@@ -10,9 +37,9 @@ members:
     seed_wrap_recovery: d459c06f6b4e7a74ec74df08a7d990a588bb0c8cb312425907f23d0ae1388c586b01694e3fb58978717bb17069c37a98eaa7b0e33601e81c42ef745e
     ai_delegations:
       ai:vibe@joy:
-        delegation_verifier: e7b9b21ef1459e20d486082523a0c48a316b16a9c1698a44565c16272e861880
-        delegation_salt: aeed57053d17be44af5b606e8c5f8017cb0c66e6e2ecc163b78901df6b34acb9
-        created: 2026-07-29T16:42:29.657239903Z
+        delegation_verifier: a3f6d1a5fe5835aacc9062c880f5502cac8cf09f2133344b47b5c560ec2b3d28
+        delegation_salt: da106df9f7359d9c8750c7e78b2c2e5d020ebe17104bc832fb296ca53742932c
+        created: 2026-08-18T03:32:38.700379788Z
 created: 2026-07-12T20:23:35.259875Z
 platform:
   verify_key: 5bd0c4ee5c5b7d8e440f422ee469b8fda2daafc37e36dc59055226fb8b577b26
