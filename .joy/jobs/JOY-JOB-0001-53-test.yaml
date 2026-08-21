@@ -1,0 +1,19 @@
+id: JOY-JOB-0001-53
+title: Test
+type: job
+status: new
+priority: medium
+assignees:
+- member: ai:vibe@joy
+capabilities:
+- jobs
+created_by: horst.schwarz@joydev.com
+created: 2026-08-21T06:00:44.738584252Z
+updated: 2026-08-21T06:00:44.738584252Z
+updated_by: horst.schwarz@joydev.com
+job:
+  scope:
+  - JOY-0001-36
+  budget:
+    max_cents: 50
+    currency: EUR
