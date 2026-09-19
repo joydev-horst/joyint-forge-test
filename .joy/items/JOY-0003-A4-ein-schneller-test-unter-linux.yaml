@@ -1,0 +1,12 @@
+id: JOY-0003-A4
+title: Ein schneller Test unter Linux
+type: task
+status: new
+priority: medium
+capabilities:
+- implement
+created_by: horst.schwarz@joydev.com
+created: 2026-09-19T22:53:05.085857600Z
+updated: 2026-09-19T22:53:05.085857600Z
+updated_by: horst.schwarz@joydev.com
+description: Wäre so glücklich wenns nun gehen würde
