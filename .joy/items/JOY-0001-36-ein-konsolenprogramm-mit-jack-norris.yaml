@@ -3,12 +3,14 @@ title: Ein Konsolenprogramm mit Jack Norris Witzen
 type: idea
 status: open
 priority: medium
+assignees:
+- member: horst.schwarz@joydev.com
 tags:
 - test
 effort: 7
 created_by: horst.schwarz@joydev.com
 created: 2026-07-12T20:23:43.238976Z
-updated: 2026-07-17T10:55:37.281196626Z
+updated: 2026-09-19T21:02:19.507400700Z
 updated_by: horst.schwarz@joydev.com
 description: Einfach nur eine lustige Zeile ausgeben
 comments:
