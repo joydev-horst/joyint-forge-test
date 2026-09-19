@@ -3,3 +3,4 @@
 2026-09-19T21:03:43.456Z JOY-0001-36 item.status_changed "open -> in-progress" [horst.schwarz@joydev.com]
 2026-09-19T21:03:45.945Z JOY-0001-36 item.status_changed "in-progress -> open" [horst.schwarz@joydev.com]
 2026-09-19T22:53:05.139Z JOY-0003-A4 item.created [horst.schwarz@joydev.com]
+2026-09-19T22:53:28.972Z JOY-0003-A4 item.updated [horst.schwarz@joydev.com]

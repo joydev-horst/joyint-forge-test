@@ -1,5 +1,5 @@
 id: JOY-0003-A4
-title: Ein schneller Test unter Linux
+title: Ein schneller Test unter Windows
 type: task
 status: new
 priority: medium
@@ -7,6 +7,6 @@ capabilities:
 - implement
 created_by: horst.schwarz@joydev.com
 created: 2026-09-19T22:53:05.085857600Z
-updated: 2026-09-19T22:53:05.085857600Z
+updated: 2026-09-19T22:53:28.917778100Z
 updated_by: horst.schwarz@joydev.com
 description: Wäre so glücklich wenns nun gehen würde
