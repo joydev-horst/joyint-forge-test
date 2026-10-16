@@ -1,7 +1,7 @@
 id: JOY-JOB-0001-53
 title: Test
 type: job
-status: in-progress
+status: review
 priority: medium
 assignees:
 - member: vibe
@@ -10,7 +10,7 @@ capabilities:
 interaction-level: proposing
 created_by: horst.schwarz@joydev.com
 created: 2026-08-21T06:00:44.738584252Z
-updated: 2026-10-16T20:01:23.977297838Z
+updated: 2026-10-16T20:01:30.694098961Z
 updated_by: vibe delegated-by:horst.schwarz@joydev.com
 job:
   scope:
@@ -18,3 +18,11 @@ job:
   budget:
     max_cents: 50
     currency: EUR
+  activity:
+  - started: 2026-10-16T20:01:25.596741308Z
+    ended: 2026-10-16T20:01:30.693151811Z
+    outcome: failed
+    tokens: 0
+    cost_cents: 0
+    error: 'acp round: Missing API key for mistral provider.'
+    by: vibe
