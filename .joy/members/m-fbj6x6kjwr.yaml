@@ -1,0 +1,20 @@
+name: claude
+adapter: claude
+capabilities:
+- conceive
+- plan
+- design
+- implement
+- test
+- review
+- document
+- jobs
+- create
+- assign
+level: autonomous
+granted:
+  by: horst.schwarz@joydev.com
+  at: 2026-10-16T19:04:33.607951275Z
+  signature: 375590968f5fa91e9a6dbe0efd965e84c5faa2e6b31dcb450b50b3330863bb13429d979f46d88bcce646d886576bc75eacd2f97bdccba47a8ed2ffb5a2dc960a
+verify_key: e33d54b071b7dae8ce097fad8b21cb4eb354147ccb5c71535db51dcb1949de38
+updated: 2026-10-16T19:04:33.609053289Z
