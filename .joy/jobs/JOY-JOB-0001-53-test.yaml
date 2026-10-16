@@ -1,7 +1,7 @@
 id: JOY-JOB-0001-53
 title: Test
 type: job
-status: open
+status: in-progress
 priority: medium
 assignees:
 - member: vibe
@@ -10,8 +10,8 @@ capabilities:
 interaction-level: proposing
 created_by: horst.schwarz@joydev.com
 created: 2026-08-21T06:00:44.738584252Z
-updated: 2026-10-16T20:01:23.391030801Z
-updated_by: horst.schwarz@joydev.com
+updated: 2026-10-16T20:01:23.977297838Z
+updated_by: vibe delegated-by:horst.schwarz@joydev.com
 job:
   scope:
   - JOY-0001-36
