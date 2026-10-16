@@ -11,6 +11,7 @@ members:
       test: {}
       review: {}
       document: {}
+      jobs: {}
       create: {}
       assign: {}
     interaction-level: autonomous
@@ -28,10 +29,11 @@ members:
           test: {}
           review: {}
           document: {}
+          jobs: {}
           create: {}
           assign: {}
-      signed_at: 2026-10-16T13:01:46.152233448Z
-      signature: abbe0bfce278846f6abbb905be848efa37e91481c131aeb29f9821f058aab7c62fda37905ef887320138aa99dc38849410edb2395ed4c5a01665596f0563e909
+      signed_at: 2026-10-16T13:01:58.487191995Z
+      signature: 9cff41eced03b83a6df0da18294c288b9c14fa07a9430690fc7d42fd9bbf8d245b279ee3b87ea9c5d047b46d13bf6163e0e54530a65bc9c633e81aaf2b8d2908
   horst.schwarz@joydev.com:
     capabilities: all
     verify_key: 4e941c3865bd183820a586464c7892d648c2d570542de8a4e227382e83e69b6b
