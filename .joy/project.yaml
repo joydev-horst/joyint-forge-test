@@ -2,6 +2,36 @@ name: joyint-forge-test
 acronym: JOY
 language: en
 members:
+  claude:
+    capabilities:
+      conceive: {}
+      plan: {}
+      design: {}
+      implement: {}
+      test: {}
+      review: {}
+      document: {}
+      create: {}
+      assign: {}
+    interaction-level: autonomous
+    adapter: claude
+    verify_key: e33d54b071b7dae8ce097fad8b21cb4eb354147ccb5c71535db51dcb1949de38
+    attestation:
+      attester: horst.schwarz@joydev.com
+      signed_fields:
+        email: claude
+        capabilities:
+          conceive: {}
+          plan: {}
+          design: {}
+          implement: {}
+          test: {}
+          review: {}
+          document: {}
+          create: {}
+          assign: {}
+      signed_at: 2026-10-16T13:01:46.152233448Z
+      signature: abbe0bfce278846f6abbb905be848efa37e91481c131aeb29f9821f058aab7c62fda37905ef887320138aa99dc38849410edb2395ed4c5a01665596f0563e909
   horst.schwarz@joydev.com:
     capabilities: all
     verify_key: 4e941c3865bd183820a586464c7892d648c2d570542de8a4e227382e83e69b6b
@@ -9,6 +39,10 @@ members:
     seed_wrap_passphrase: 8e4059f1da2e3d0a1f4cadac78c43ba819cbf2cde6aee196bb755894a2fbf4657d63c921900e3c6d14c3d5cbe617470fbd6df6de24e4b10ad17bc966
     seed_wrap_recovery: d459c06f6b4e7a74ec74df08a7d990a588bb0c8cb312425907f23d0ae1388c586b01694e3fb58978717bb17069c37a98eaa7b0e33601e81c42ef745e
     ai_delegations:
+      claude:
+        delegation_verifier: e33d54b071b7dae8ce097fad8b21cb4eb354147ccb5c71535db51dcb1949de38
+        delegation_salt: ff2160bb220b555ec4e68b31a6028ff30ceb21933a63e834a165362bc25b6f05
+        created: 2026-10-16T13:01:46.154834365Z
       vibe:
         delegation_verifier: a3f6d1a5fe5835aacc9062c880f5502cac8cf09f2133344b47b5c560ec2b3d28
         delegation_salt: da106df9f7359d9c8750c7e78b2c2e5d020ebe17104bc832fb296ca53742932c
