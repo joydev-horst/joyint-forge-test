@@ -9,8 +9,9 @@ ai_delegations:
     delegation_verifier: e33d54b071b7dae8ce097fad8b21cb4eb354147ccb5c71535db51dcb1949de38
     delegation_salt: ff2160bb220b555ec4e68b31a6028ff30ceb21933a63e834a165362bc25b6f05
     created: 2026-10-16T13:01:46.154834365Z
+    model: sonnet
   vibe:
     delegation_verifier: a3f6d1a5fe5835aacc9062c880f5502cac8cf09f2133344b47b5c560ec2b3d28
     delegation_salt: da106df9f7359d9c8750c7e78b2c2e5d020ebe17104bc832fb296ca53742932c
     created: 2026-08-18T03:32:38.700379788Z
-updated: 2026-10-16T19:04:33.609053289Z
+updated: 2026-10-16T19:06:42.037676657Z
